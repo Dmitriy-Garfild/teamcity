@@ -60,4 +60,6 @@
 15. check
 16. [Скриншот 1.16](screenshots/image_1.16.jpg)
 17. [Скриншот 1.17](screenshots/image_1.17.jpg)
+18. https://github.com/Dmitriy-Garfild/teamcity/tree/main/.teamcity
+19 https://github.com/Dmitriy-Garfild/teamcity/tree/main/
   
