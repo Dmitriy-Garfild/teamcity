@@ -1,6 +1,5 @@
 # Домашнее задание к занятию 11 «Teamcity»
 
-<img src = "logo.png" width = 20%>
 
 ## Подготовка к выполнению
 
@@ -61,4 +60,4 @@
 15. check
 16. [Скриншот 1.16](screenshots/image_1.16.jpg)
 17. [Скриншот 1.17](screenshots/image_1.17.jpg)
-
+  
