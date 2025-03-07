@@ -49,11 +49,8 @@
 5. ![Скриншот 1.5](screenshots/image_1.5.jpg)
 7. ![Скриншот 1.7](screenshots/image_1.7.jpg)
 8. ![Скриншот 1.8](screenshots/image_1.8.jpg)
-13. ![Скриншот 1.13](screenshots/image_1.13.jpg)
-14. ![pull request](https://github.com/InfernoFeniks/example-teamcity/pull/1)
-16. ![Скриншот 1.16](screenshots/image_1.16.jpg)
-17. ![Скриншот 1.17](screenshots/image_1.17.jpg)
+16.![Скриншот 1.16](screenshots/image_1.16.jpg)
+17.![Скриншот 1.17](screenshots/image_1.17.jpg)
 18. https://github.com/Dmitriy-Garfild/teamcity/tree/main/.teamcity
-  
-19 https://github.com/Dmitriy-Garfild/teamcity/tree/main/
+19. https://github.com/Dmitriy-Garfild/teamcity/tree/main/
   
