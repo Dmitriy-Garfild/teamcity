@@ -11,9 +11,9 @@
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
 
 **Ответ.**
-1. [infracture YC](screenshots/image_1.jpg)
-2. [TeamCity Agents](screenshots/image_2.jpg)
-3. [Nexus](screenshots/image_3.jpg)
+1. ![infracture YC](screenshots/image_1.jpg)
+2. ![TeamCity Agents](screenshots/image_2.jpg)
+3. ![Nexus](screenshots/image_3.jpg)
 - Вся инфрасрутура поднимается через терраформ под ключ.
 
 ## Основная часть
